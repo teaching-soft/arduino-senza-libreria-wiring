@@ -1,0 +1,2 @@
+https://www.ne555.it/guida-arduino-uscite-pwm/
+https://ilguru.eu/programmazione-avr-timer-counter0-e-pwm/

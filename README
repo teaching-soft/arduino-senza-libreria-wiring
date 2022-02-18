@@ -1,0 +1,30 @@
+Esempi di programmazione della scheda Arduino (ATMEGA 328p) senza
+l'uso della libreria Wiring
+
+Directory adc
+Uso dell' ADC ed invio sulla seriale del valore medesimo
+
+Directory adc_interrupt
+Uso dell' ADC con interrupt ed invio sulla seriale del valore medesimo
+
+Directory delay
+Semplice uso della funzione _delay_loop_2
+
+Directory eeprom
+Semplice esempio d'uso della memoria eeprom
+
+Directory lampeggio_led
+Semplice esempio per far lampeggiare un led
+
+Directory lampeggio_led_con_pulsante
+Semplice esempio per far lampeggiare un led + pulsante
+
+Directory pwm
+Semplice esempio per far lampeggiare un led con il pwm
+
+Directory usart_interrupt
+Semplice esempio d'uso della seriale (usart) con gli interrupt
+
+Directory usart_polling
+Semplice esempio d'uso della seriale (usart)
+
